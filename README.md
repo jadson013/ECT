@@ -9,6 +9,7 @@ Professor: Helton Maia - helton.maia@ect.ufrn.br
 Students:
 
 Joanderson Lucas
+Jadson Araújo Bezerra 
 
 Hemerson Rafael P. Pontes - hrpp@ufrn.edu.br
 
